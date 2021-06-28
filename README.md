@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Data Scavenging
 - 🌱 I’m currently learning ML Tools
 - 💞️ I’m looking to collaborate on Financial Analytics
-- 📫 How to reach me Linkedin serach (Sugeeta K) 
+- 📫 How to reach me Linkedin search (Sugeeta K) 
 
 <!---
 SugeetaKurada/SugeetaKurada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
